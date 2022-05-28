@@ -1,4 +1,4 @@
-![Screenshot](img_capa.PNG)
+![Screenshot](img_capa.PNG.png)
 
 # Getting Started with Create React App
 
